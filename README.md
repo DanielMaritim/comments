@@ -11,3 +11,5 @@ Depending on the goal behind writing a comment in your code base,they are necces
 They are used in a programming language to document the program and remind programmers of what tricky things they just did with the code and also helps the later generation for understanding and maintenance of code.
 
 Comment functions implemented by you with function description, author name, date, lists of parameters, return type, and logic behind solving the problem. If you are going to make any changes in a function written earlier, you should describe what changes you are making and why.
+
+Comments help make code easier to understand by explaining what is happening and can help prevent portions of a program from executing
